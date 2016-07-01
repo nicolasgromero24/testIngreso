@@ -10,6 +10,7 @@ var numeroDos;
 numeroDos = document.getElementById('numeroDos').value;
 var resultado = parseInt(numeroUno)+parseInt(numeroDos);
 alert("el resultado es : "+resultado);
+alert("sumar");
 }
 
 function restar()
